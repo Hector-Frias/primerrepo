@@ -2,3 +2,5 @@
 
 function crearUsuario() {}
 function eliminarUsuario() {}
+function modificarUsuario() {}
+function listarUsuarios() {}
